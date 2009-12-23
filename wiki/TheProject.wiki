@@ -1,4 +1,4 @@
-#labels Featured
+#labels Featured,Phase-Requirements,Phase-Design
 = Goals =
 
 The goal of pagediff is to provide users a tool to monitor pages and send alerts when a change is spotted.
